@@ -1,0 +1,22 @@
+{
+  "name": "header-parser",
+  "version": "1.0.0",
+  "description": "header-parser fcc",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-useragent": "^1.0.12"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "header",
+    "parser",
+    "micro",
+    "service",
+    "fcc"
+  ],
+  "author": "Cheks",
+  "license": "MIT"
+}
